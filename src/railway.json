@@ -1,6 +1,5 @@
 {
   "build": {
-    "builder": "DOTNET",
     "buildCommand": "dotnet publish Bran.API/Bran.API.csproj -c Release -o out"
   },
   "deploy": {
