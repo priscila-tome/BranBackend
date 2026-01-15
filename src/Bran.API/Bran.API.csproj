@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Bran.Application\Bran.Application.csproj" />
+	<ProjectReference Include="..\Bran.Domain\Bran.Domain.csproj" />
     <ProjectReference Include="..\Bran.Infrastructure\Bran.Infrastructure.csproj" />
   </ItemGroup>
 
